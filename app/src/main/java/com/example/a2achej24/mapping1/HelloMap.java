@@ -48,7 +48,7 @@ public class HelloMap extends Activity
 
         // set the map to the new latitude and longitude
 
-        
+
     }
 }
 

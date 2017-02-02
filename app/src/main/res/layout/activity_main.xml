@@ -16,7 +16,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/longitudeEditText"
+        android:id="@+id/LongitudeEditText"
         android:text="Longitude"
         android:hint="longitude" />
 
